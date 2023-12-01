@@ -246,7 +246,8 @@ module.exports = app;
 
 */
 
-//I WROTE THE ABOVE CODE AND THE CODE BELOW IS SOLUTION CODE GIVEN
+//I WROTE THE ABOVE CODE AND THE CODE BELOW IS SOLUTION CODE GIVEN 
+// BOTH CODES ARE GIVING SAME OUTPUT
 
 const express = require("express");
 const { open } = require("sqlite");
